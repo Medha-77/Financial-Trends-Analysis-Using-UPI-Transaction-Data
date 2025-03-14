@@ -1,4 +1,4 @@
-# 📊 **UPI Transactions Data Analysis - README**  
+# 📊 **UPI Transactions Data Analysis**  
 
 ## 📌 **Problem Statement**  
 With the rapid rise of **digital payments**, businesses and financial institutions need insights into **user behavior** to:  
